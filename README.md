@@ -1,2 +1,2 @@
 # CPP
-C++ Exercises
+C++ Exercises / Przykładowe zadania z C++.
